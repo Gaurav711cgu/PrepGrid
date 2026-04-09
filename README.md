@@ -1,6 +1,6 @@
 # 🧠 PrepGrid — AI-Powered Interview & Practice Platform
 
-> **DevFusion Hackathon 2026 — Problem Statement #26ENPRE1**
+> **DevFusion Hackathon 2026
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-prepgrid.vercel.app-22D3EE?style=for-the-badge)](https://prepgrid.vercel.app)
 [![License](https://img.shields.io/badge/License-MIT-A78BFA?style=for-the-badge)](#)
@@ -308,7 +308,7 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 <div align="center">
   <strong>Built with ❤️ for DevFusion Hackathon 2026</strong><br/>
-  <em>Problem Statement #26ENPRE1 — PrepGrid: AI-Powered Interview & Practice Platform</em><br/><br/>
+  <em>PrepGrid: AI-Powered Interview & Practice Platform</em><br/><br/>
   <a href="https://prepgrid.vercel.app">🌐 Live Demo</a> ·
   <a href="#-getting-started">🚀 Quick Start</a> ·
   <a href="#-ai-integration">🤖 AI Docs</a>
